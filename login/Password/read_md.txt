@@ -1,0 +1,3 @@
+DATABASE NAME --- login_sample_db
+USERNAME      --- user@example.com
+PASSWORD	  --- password123
